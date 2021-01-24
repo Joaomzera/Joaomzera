@@ -7,7 +7,7 @@
  
 <!-- About ME -->
 <div>
-  <p align="center">
+  <p align="left">
    Descobri minha vocação como desenvolvedor aos 17 anos, sempre estou em busco de mais technologias para exerce meus conhecimentos e aprimorar, sempre gostei muito na parte de desenvolvimento fullstack e quero seguir em frente para mercado de trabalho.
  </p>
 </div>
