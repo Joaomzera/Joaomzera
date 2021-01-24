@@ -14,20 +14,23 @@
 
 <!-- Technologies -->
 ## :rocket: Minhas Habilidades
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<p align="left">
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="HTML5"/>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
+</p>
 
 <!-- Gears and Systeam --> 
 ### :gear: Ferramentas e Sistemas
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="Linux"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-34-225988.png" alt="github"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terminal-32-1136218.png" alt="terminal"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm"/></code>
+<p align="left">
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="Linux"/>
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/>
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-34-225988.png" alt="github"/>
+  <img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terminal-32-1136218.png" alt="terminal"/>
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/>
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/npm-226037.png" alt="npm"/>
+<p>
 
 ### ⭐ Meus Status no GitHub
 <!--  THROPY -->
