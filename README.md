@@ -12,13 +12,6 @@
  </p>
 </div>
 
-<!-- Profile Views -->
-<div>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Joaomzera" />
- </p>
-</div>
-
 <!-- Technologies -->
 ## :rocket: Minhas Habilidades
 
@@ -40,14 +33,14 @@
 <!--  THROPY -->
 <div>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Joaomzera&theme=onedark" height="100" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Joaomzera&theme=onedark" height="128" />
   </p>
 </div
 
 <!--  STATUS CODE -->
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joaomzera&show_icons=true&theme=dracula" alt="my github stats" height="100"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomzera&layout=compact&theme=dracula" alt="languages" height="100" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Joaomzera&show_icons=true&theme=dracula" alt="my github stats" height="128"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomzera&layout=compact&theme=dracula" alt="languages" height="128" />
   </p>
 </div>
